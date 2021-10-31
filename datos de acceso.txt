@@ -1,0 +1,5 @@
+base de datos
+
+BD: users_test
+user: pruebalocal
+pass: MotionPulse#21
